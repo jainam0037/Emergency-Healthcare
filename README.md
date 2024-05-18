@@ -21,9 +21,9 @@ This project involves an analysis of emergency healthcare services using Tableau
 
 The project analyzes data from emergency response services and hospitals to provide insights into incident trends, response times, hospital performance, and resource allocation. The goal is to improve emergency healthcare services through data-driven decisions.
 
-## Image of Tableau Dashboard (https://github.com/jainam0037/Emergency-Healthcare/blob/main/Dashboard%201%20(1).png?raw=true)
+## Image of Tableau Dashboard 
 
-![Tableau Dashboard]()
+![Tableau Dashboard]((https://github.com/jainam0037/Emergency-Healthcare/blob/main/Dashboard%201%20(1).png?raw=true))
 
 ## Dataset
 
